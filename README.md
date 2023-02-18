@@ -16,10 +16,14 @@
 4. A casino with games to spend bot's credits
 5. And lots of other commands to enhance the bot's overall capabilities
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErtonDev/ElHijo-Public/main/resources/example.png"/>
+</p>
+
 Sadly, the bot doesn't work anymore due to discord.py library not being supported and the latest discord API changes which, basically, break the traditional system most discord.py bots were using. Despite the bad news, I thought I could upload it here to show how it used to work as someone may find it useful.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErtonDev/ElHijo-Public/main/resources/example.png"/>
+  <img src="https://raw.githubusercontent.com/ErtonDev/ElHijo-Public/main/resources/elhijo.png" height = 300/>
 </p>
 
 ---
@@ -66,7 +70,7 @@ python3 bot.py
 > You may also use *python2* or simply *python* depending on your version
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErtonDev/ElHijo-Public/main/resources/execution.png" height=200/>
+  <img src="https://raw.githubusercontent.com/ErtonDev/ElHijo-Public/main/resources/execution.png" height=500/>
 </p>
 
 Once the bot was on, members of the server could type commands after the prefix '.' such as '.auxilio', which sent a discord embed with a detailed list of all the bot's commands. Other commands like '.admin' or '.mod' granted access to moderation tools for administrators of the server, and those who weren't could use '.perfil' or '.ficha' to check their personal accounts. These accounts stored data such as points, credits or even information about their misdeeds! Administrators could send warnings to these accounts when someone was doing something that they shouldn't. And lastly, the commands '.banco' and '.casino' allowed you to play different games, where you spent the credits won by investing in the simulator to win prizes!
